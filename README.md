@@ -9,3 +9,4 @@
 1. Create a new branch from the current branch: `git branch <branch-name>`
 1. Switch to a branch: `git checkout <branch-name>`
 1. Create a new branch and switch to it: `git checkout -b <branch-name>`
+1. Merge a branch in the current branch: `git merge <branch-name>`
