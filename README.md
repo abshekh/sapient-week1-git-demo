@@ -12,3 +12,6 @@
 1. Merge a branch in the current branch: `git merge <branch-name>`
 1. Show commits and commit ids: `git log`
 1. Compare two commits: `git diff <id1> <id2>`
+1. Create a tag on commit: `git tag <tag-name>`
+1. Push the tag to remote: `git push origin --tags`
+1. Show all tags: `git tag`
